@@ -1,1 +1,4 @@
-# contri-list-trial
+## Contributors
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
